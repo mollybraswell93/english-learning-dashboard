@@ -47,5 +47,3 @@ english-vocabulary-tracker/
 
 
 ---
-
-Would you like me to show you how to add a **small “About This Project”** section under that tree next — so your README looks more like a polished portfolio project (great for LinkedIn and job applications)?
