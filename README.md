@@ -18,3 +18,22 @@ english-vocabulary-tracker/
 │
 └── README.md
 ```
+---
+
+## 📘 About This Project
+This project tracks the vocabulary growth of my English students over time.  
+It combines teaching and data visualization, allowing me to observe trends in language acquisition and engagement.
+
+### 🧩 Key Features
+- Tracks individual student vocabulary progress using CSV/Excel data.
+- Visualizes learning growth using Python (matplotlib & Streamlit).
+- Designed to evolve into an interactive teacher dashboard.
+
+### 🛠️ Tech Stack
+- **Python** — Data analysis & visualization
+- **Streamlit** — Interactive dashboard
+- **Pandas** — Data manipulation
+- **GitHub** — Version control & portfolio showcase
+
+---
+
