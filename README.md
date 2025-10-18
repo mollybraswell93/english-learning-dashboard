@@ -2,8 +2,11 @@
 
 Tracking the vocabulary expansion for my English students.
 
-<pre>
-english-vocabulary-tracker/
+# english-learning-dashboard
+
+Tracking the vocabulary expansion for my English students.
+
+### 📂 Repository Structure
 │
 ├── data/
 │   ├── student_vocab_records.csv
