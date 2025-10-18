@@ -6,7 +6,7 @@ Tracking the vocabulary expansion for my English students.
 
 Tracking the vocabulary expansion for my English students.
 
-### 📂 Repository Structure
+### Repository Structure
 │
 ├── data/
 │   ├── student_vocab_records.csv
