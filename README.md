@@ -1,7 +1,10 @@
-
 # english-learning-dashboard
 
 Tracking the vocabulary expansion for my English students.
+
+### 📂 Repository Structure
+```text
+english-vocabulary-tracker/
 │
 ├── data/
 │   ├── student_vocab_records.csv
@@ -14,4 +17,4 @@ Tracking the vocabulary expansion for my English students.
 │   └── vocab_dashboard.py
 │
 └── README.md
-</pre>
+```
